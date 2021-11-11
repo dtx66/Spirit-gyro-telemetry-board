@@ -1,6 +1,8 @@
 # Spirit-gyro-telemetry-board
 
-A PCB print file for Spirit gyro telemetry for CC & HW ESC
+First, Thanks my Friend Jonathan NI, for the drawing.
+
+This is a PCB print file for Spirit gyro telemetry board. Only for CC & HW ESC.
 
 For CC, need a 10Kohm resistor between "signal" & "+", and short circuit the middle pad
 
